@@ -1,0 +1,11 @@
+-- hello.azlj
+size 16x16
+background #1a1a2e
+
+color #e94560
+fill 4,4 12,12
+
+color #ffffff
+pixel 6,7
+pixel 10,7
+line 6,10 10,10
