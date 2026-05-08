@@ -1,0 +1,28 @@
+-- target.azlj
+size 64x64
+background #FFFFFF
+
+-- Outer ring (black)
+color #000000
+circle 32,32 30
+
+-- Red ring
+color #FF0000
+circle 32,32 24
+
+-- White ring
+color #FFFFFF
+circle 32,32 18
+
+-- Red center
+color #FF0000
+circle 32,32 12
+
+-- Bullseye
+color #FFFF00
+circle 32,32 6
+
+-- Crosshair lines
+color #000000
+line 32,2 32,62
+line 2,32 62,32

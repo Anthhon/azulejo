@@ -1,0 +1,27 @@
+-- flag_brazil.azlj
+size 48x32
+background #009c3b
+
+-- Yellow diamond
+color #ffdf00
+line 24,2 46,16
+
+line 24,30 2,16
+
+-- Blue circle
+color #002776
+circle 24,16 8
+
+-- White band
+color #ffffff
+line 19,13 29,19
+line 20,12 30,18
+
+-- Stars (simplified - just a few)
+color #ffffff
+pixel 22,14
+pixel 26,14
+pixel 24,12
+pixel 24,18
+pixel 20,16
+pixel 28,16

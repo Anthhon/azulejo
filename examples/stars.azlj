@@ -1,0 +1,41 @@
+-- stars.azlj
+size 40x40
+background #0a0a2a
+
+-- Moon
+color #FFFFF0
+circle 30,10 6
+
+-- Large stars (with cross pattern)
+color #FFFFFF
+pixel 5,5
+line 4,5 6,5
+line 5,4 5,6
+
+pixel 15,25
+line 14,25 16,25
+line 15,24 15,26
+
+-- Medium stars (just pixel)
+color #FFFFC0
+pixel 25,30
+pixel 35,20
+pixel 18,15
+pixel 10,35
+pixel 38,8
+
+-- Small stars (dimmer)
+color #AAAAFF
+pixel 8,12
+pixel 20,8
+pixel 28,18
+pixel 32,28
+pixel 12,28
+pixel 22,35
+pixel 36,30
+
+-- Shooting star
+color #FFFFFF
+line 38,2 35,5
+pixel 34,6
+pixel 33,7

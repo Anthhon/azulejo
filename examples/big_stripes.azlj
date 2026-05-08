@@ -1,0 +1,65 @@
+-- stripes_vertical.azlj
+size 600x600
+background #FFFFFF
+
+-- Black vertical stripes (each stripe is 20 pixels wide)
+color #000000
+
+-- Stripe 1: columns 0-19
+fill 0,0 19,600
+
+-- Stripe 2: columns 40-59
+fill 40,0 59,600
+
+-- Stripe 3: columns 80-99
+fill 80,0 99,600
+
+-- Stripe 4: columns 120-139
+fill 120,0 139,600
+
+-- Stripe 5: columns 160-179
+fill 160,0 179,600
+
+-- Stripe 6: columns 200-219
+fill 200,0 219,600
+
+-- Stripe 7: columns 240-259
+fill 240,0 259,600
+
+-- Stripe 8: columns 280-299
+fill 280,0 299,600
+
+-- Stripe 9: columns 320-339
+fill 320,0 339,600
+
+-- Stripe 10: columns 360-379
+fill 360,0 379,600
+
+-- Stripe 11: columns 400-419
+fill 400,0 419,600
+
+-- Stripe 12: columns 440-459
+fill 440,0 459,600
+
+-- Stripe 13: columns 480-499
+fill 480,0 499,600
+
+-- Stripe 14: columns 520-539
+fill 520,0 539,600
+
+-- Stripe 15: columns 560-579
+fill 560,0 579,600
+
+-- Big red circle
+color #Ff0000
+circle 300,300 100
+circle 300,300 99
+circle 300,300 98
+circle 300,300 97
+circle 300,300 96
+circle 300,300 95
+circle 300,300 94
+circle 300,300 93
+circle 300,300 92
+circle 300,300 91
+circle 300,300 90

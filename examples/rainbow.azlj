@@ -1,0 +1,27 @@
+-- rainbow.azlj
+size 32x30
+background #000000
+
+-- Red stripe
+color #FF0000
+fill 0,0 32,5
+
+-- Orange stripe
+color #FF7F00
+fill 0,5 32,10
+
+-- Yellow stripe
+color #FFFF00
+fill 0,10 32,15
+
+-- Green stripe
+color #00FF00
+fill 0,15 32,20
+
+-- Blue stripe
+color #0000FF
+fill 0,20 32,25
+
+-- Purple stripe
+color #8B00FF
+fill 0,25 32,30

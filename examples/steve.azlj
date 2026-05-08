@@ -1,0 +1,33 @@
+-- steve.azlj
+size 64x64
+background #e1af7e
+
+-- face
+color #e1af7e
+fill 1,1 8,8
+
+-- hair
+color #260b10
+fill 1,1 8,2
+pixel 1,3
+pixel 8,3
+
+-- eyes
+color #fefff9
+pixel 2,5
+pixel 7,5
+color #0100ca
+pixel 3,5
+pixel 6,5
+
+-- nose
+color #661f00
+line 4,6 5,6
+
+-- beard
+color #260b10
+fill 3,7 6,8 
+
+-- mouth
+color #f49eab
+line 4,7 5,7
