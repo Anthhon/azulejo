@@ -7,7 +7,7 @@ Arquivos Azulejo têm extensão `.azlj`. O tradutor gera código Lua executável
 
 ## Propósito
 
-Grafite é uma linguagem de domínio específico (DSL) declarativa para desenho em grade de pixels.  
+Azulejo é uma linguagem de domínio específico (DSL) declarativa para desenho em grade de pixels.  
 Cada programa descreve uma cena visual usando comandos de desenho simples. Não é Turing-completa 
 e nem precisa ser.
 
@@ -161,7 +161,7 @@ line 6,10 10,10
 ```
 azulejo/
 ├── README.md
-├── translator/
+├── source/ # Código fonte da linguagem
 ├── examples/ # Códigos de exemplo
 │   ├── hello.grf           # Hello World (smiley face)
 │   ├── cervejas.grf        # 99 garrafas de cerveja
@@ -172,46 +172,7 @@ azulejo/
 
 ---
 
-## Como Executar
+## Dependências
 
-### Dependências
-
-- Python 3.8+ (tradutor)
+- [Lua](https://www.lua.org/)
 - [LÖVE2D 11.x](https://love2d.org/)
-
-### Passo a passo
-
-```bash
-# 1. Traduzir arquivo .grf para Lua
-python translator/translator.py examples/hello.grf
-
-# 2. Executar com LÖVE2D (output sempre em output/main.lua)
-love output/
-```
-
-> No Windows: `love.exe output/`  
-> No macOS: `/Applications/love.app/Contents/MacOS/love output/`
-
----
-
-## Erros Comuns
-
-| Erro | Causa |
-|------|-------|
-| `size não definido` | Faltou comando `size` como primeira linha |
-| `cor inválida` | Hex malformado — use exatamente `#RRGGBB` |
-| `coord fora do canvas` | Coordenada maior que tamanho definido em `size` |
-| `sprite não declarado` | `stamp` chamado antes de `sprite @nome:` |
-
----
-
-## Limitações Atuais (v1.0)
-
-- Sem variáveis nomeadas pelo usuário
-- Sem operações aritméticas explícitas
-- Sem entrada de usuário (linguagem declarativa pura)
-- Canvas estático — sem animação
-
----
-
-*Grafite — desenhe com palavras.*
