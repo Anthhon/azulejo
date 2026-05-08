@@ -7,7 +7,7 @@ local State = require("source/state")
 -- Read arguments from user to get filename
 local filename = arg[2]
 if not filename then
-    print("usage: lua azulejo [filename]")
+    print("usage: love source/ [filepath]")
     os.exit(1)
 end
 
@@ -48,7 +48,8 @@ local function executeCommands(commands)
         if cmd.type == "grid" then
             State.setGridSize(cmd.width, cmd.height)
         elseif cmd.type == "background" then
-            State.setBackgroundColor(cmd.color)
+            local width, height = State.getGridSize()
+            Draw.fillRect(1, 1, width, height, cmd.color)
         elseif cmd.type == "color" then
             -- Just update current color, no drawing needed
             -- Color is already set in parser for subsequent commands

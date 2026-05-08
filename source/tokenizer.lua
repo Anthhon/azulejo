@@ -38,9 +38,6 @@ function Tokenizer.tokenize(code)
 
     local tokens = {}
     local line_num = 1
-    -- TODO: Change it to a more reasonable size before prod
-    local max_width = 16
-    local max_height = 16
 
     -- Split into lines
     for line in code:gmatch("[^\r\n]+") do
@@ -98,11 +95,6 @@ function Tokenizer.tokenize(code)
 
                         if width == 0 or height == 0 then
                             print(string.format("error: line %d: invalid size '%s' (dimensions must be greater than 0)", line_num, arg))
-                            os.exit(1)
-                        end
-
-                        if width > max_width or height > max_height then
-                            print(string.format("error: line %d: dimensions '%s' exceeds maximum allowed (%dx%d)", line_num, arg, max_width, max_height))
                             os.exit(1)
                         end
 

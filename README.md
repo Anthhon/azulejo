@@ -28,7 +28,6 @@ e nem precisa ser.
 |------|-----------|---------|
 | `int` | Inteiro positivo | `16`, `255` |
 | `coord` | Par de coordenadas `x,y` | `2,4` |
-| `size` | Dimensão `LxA` | `16x16` |
 | `color` | RGB em hex | `#FF0000` |
 | `label` | Nome de bloco/sprite | `@rosto` |
 
