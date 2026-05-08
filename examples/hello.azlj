@@ -1,10 +1,12 @@
 -- hello.azlj
-size 16x16
+size 15x15
 background #1a1a2e
 
-color #e94560
+-- face color
+color #ffff00
 fill 4,4 12,12
 
+-- smile color
 color #ffffff
 pixel 6,7
 pixel 10,7

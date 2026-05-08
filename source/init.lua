@@ -1,8 +1,8 @@
 local Tokenizer = require("source/tokenizer")
+local Parser = require("source/parser")
 
 -- Read arguments from user to get filename
-local filename = arg[1]
-if not filename then
+local filename = arg[1] if not filename then
     print("usage: lua azulejo [filename]")
     os.exit(1)
 end
@@ -32,7 +32,12 @@ local content = file:read("*a") -- read everything
 file:close() -- free file just after storing it's content
 
 local tokens = Tokenizer.tokenize(content)
+-- Debug prints
 for i, token in ipairs(tokens) do
     print(string.format("(%d) {%s,%s,%d}", 
     i, token.type, tostring(token.value), token.line))
 end
+
+-- Get parser to check tokens
+Parser.check(tokens)
+print("Tokens are valid and ready to be interpreted!")
