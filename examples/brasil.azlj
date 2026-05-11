@@ -1,0 +1,1313 @@
+-- Generated from image conversion
+size 62x30
+background #000000
+
+color #3852B2
+pixel 27,10
+
+pixel 26,17
+
+pixel 27,19
+
+pixel 26,20
+
+pixel 30,21
+
+color #5A6DE1
+fill 30,8 32,10
+
+fill 33,9 33,12
+
+fill 28,10 29,11
+
+fill 34,10 35,13
+
+fill 31,11 32,11
+
+fill 32,12 32,13
+
+fill 37,12 37,13
+
+pixel 36,13
+
+fill 38,14 39,15
+
+fill 31,16 31,19
+
+fill 30,17 30,19
+
+fill 29,18 29,19
+
+fill 32,18 35,20
+
+pixel 28,19
+
+fill 37,20 37,21
+
+fill 32,21 33,21
+
+fill 35,21 36,21
+
+color #FCF235
+pixel 20,10
+
+pixel 43,10
+
+pixel 42,11
+
+pixel 20,12
+
+pixel 20,19
+
+pixel 42,20
+
+pixel 43,21
+
+color #83800F
+pixel 38,11
+
+pixel 36,22
+
+color #3F730C
+fill 3,0 9,0
+
+fill 12,0 19,0
+
+fill 22,0 23,0
+
+fill 26,0 27,0
+
+fill 30,0 37,0
+
+fill 40,0 57,0
+
+pixel 60,0
+
+fill 63,2 63,5
+
+fill 0,3 0,5
+
+fill 63,7 63,11
+
+fill 0,14 0,17
+
+fill 63,14 63,17
+
+fill 63,20 63,24
+
+fill 0,26 0,28
+
+fill 63,26 63,29
+
+fill 3,31 9,31
+
+fill 12,31 21,31
+
+fill 24,31 45,31
+
+fill 48,31 57,31
+
+pixel 60,31
+
+color #325B92
+fill 30,22 31,22
+
+pixel 31,23
+
+color #41730C
+fill 0,6 0,11
+
+fill 0,20 0,25
+
+color #6570A9
+pixel 29,12
+
+color #EAEF6A
+fill 26,8 27,8
+
+pixel 26,9
+
+fill 24,10 25,10
+
+pixel 24,11
+
+fill 24,20 24,21
+
+pixel 25,21
+
+fill 26,22 26,23
+
+pixel 27,23
+
+color #6772AB
+pixel 32,17
+
+color #627C7C
+pixel 29,22
+
+color #9FAB00
+pixel 22,8
+
+pixel 22,23
+
+color #68BD2E
+fill 33,2 33,3
+
+color #7BB81E
+fill 28,4 29,4
+
+pixel 28,5
+
+fill 20,8 21,8
+
+fill 12,12 13,12
+
+pixel 12,13
+
+fill 8,14 9,14
+
+fill 8,15 8,17
+
+pixel 9,17
+
+fill 12,18 12,19
+
+pixel 13,19
+
+fill 16,20 16,21
+
+pixel 17,21
+
+fill 20,23 21,23
+
+fill 24,24 24,25
+
+fill 39,24 39,25
+
+pixel 25,25
+
+pixel 38,25
+
+fill 28,26 28,27
+
+pixel 29,27
+
+color #EEFFFF
+fill 24,14 25,14
+
+color #5375C0
+pixel 25,17
+
+color #FEFEFE
+pixel 29,15
+
+pixel 36,16
+
+color #40740D
+pixel 63,6
+
+pixel 63,25
+
+color #EBF8FF
+pixel 30,13
+
+pixel 36,15
+
+pixel 37,18
+
+color #6671AA
+pixel 28,12
+
+pixel 33,17
+
+color #6BBB2E
+pixel 27,28
+
+color #FFFFD4
+fill 25,12 25,13
+
+pixel 24,13
+
+color #CFE1F6
+pixel 35,23
+
+color #517AB1
+pixel 30,23
+
+color #69BC2D
+pixel 30,2
+
+color #CCE6E6
+pixel 28,23
+
+color #3F730E
+fill 58,0 59,0
+
+fill 22,31 23,31
+
+fill 58,31 59,31
+
+color #C7FF68
+pixel 25,7
+
+pixel 38,7
+
+pixel 42,9
+
+pixel 46,11
+
+pixel 50,13
+
+pixel 50,18
+
+pixel 46,20
+
+pixel 42,22
+
+pixel 34,26
+
+color #9EAD00
+pixel 33,4
+
+pixel 37,6
+
+pixel 49,12
+
+pixel 53,14
+
+pixel 53,17
+
+pixel 49,19
+
+pixel 45,21
+
+pixel 37,25
+
+pixel 33,27
+
+color #435D5D
+pixel 28,22
+
+pixel 29,23
+
+color #EEEB7A
+pixel 39,10
+
+color #A5D770
+fill 1,6 1,11
+
+fill 1,20 1,25
+
+color #827F0E
+pixel 38,20
+
+color #5670D0
+pixel 27,20
+
+color #F7FCFF
+fill 26,12 26,13
+
+pixel 27,13
+
+fill 34,16 35,16
+
+fill 38,16 38,17
+
+pixel 35,17
+
+pixel 39,17
+
+color #3F740B
+fill 28,0 29,0
+
+fill 0,12 0,13
+
+fill 63,12 63,13
+
+fill 0,18 0,19
+
+fill 63,18 63,19
+
+fill 46,31 47,31
+
+color #DFE2CF
+pixel 39,19
+
+color #46586D
+pixel 28,9
+
+pixel 34,22
+
+color #CCE6E7
+pixel 24,19
+
+color #6870AB
+fill 34,14 35,14
+
+fill 26,15 27,15
+
+color #EDEA79
+pixel 38,10
+
+pixel 39,11
+
+fill 39,20 39,21
+
+pixel 38,21
+
+fill 37,22 37,23
+
+pixel 36,23
+
+color #627C7D
+pixel 25,18
+
+color #435D5E
+pixel 24,18
+
+pixel 25,19
+
+color #FBF036
+fill 46,16 47,17
+
+fill 20,20 21,20
+
+pixel 21,21
+
+color #586EE1
+fill 28,16 29,17
+
+color #A3D86F
+fill 28,1 29,1
+
+fill 1,12 1,13
+
+fill 62,12 62,13
+
+fill 1,18 1,19
+
+fill 62,18 62,19
+
+fill 46,30 47,30
+
+color #5476C1
+pixel 25,16
+
+pixel 28,20
+
+pixel 29,21
+
+fill 32,22 33,22
+
+color #3557A2
+fill 24,16 24,17
+
+pixel 29,20
+
+pixel 28,21
+
+fill 32,23 33,23
+
+color #7CB71D
+pixel 43,9
+
+pixel 43,22
+
+color #A3D770
+fill 2,1 9,1
+
+fill 12,1 19,1
+
+fill 22,1 23,1
+
+fill 26,1 27,1
+
+fill 30,1 37,1
+
+fill 40,1 55,1
+
+pixel 57,1
+
+fill 60,1 61,1
+
+fill 1,2 1,3
+
+fill 62,2 62,11
+
+pixel 1,5
+
+fill 1,14 1,17
+
+fill 62,14 62,17
+
+fill 62,20 62,29
+
+pixel 1,26
+
+fill 1,28 1,29
+
+fill 2,30 9,30
+
+fill 12,30 21,30
+
+fill 24,30 45,30
+
+fill 48,30 55,30
+
+pixel 57,30
+
+fill 60,30 61,30
+
+color #D2DDFF
+pixel 39,12
+
+color #9DAC00
+pixel 41,8
+
+pixel 41,23
+
+color #596CE0
+pixel 33,8
+
+pixel 36,12
+
+pixel 33,13
+
+pixel 30,16
+
+pixel 36,20
+
+pixel 34,21
+
+color #C8FF69
+fill 54,15 54,16
+
+color #F9F234
+fill 18,12 19,13
+
+fill 44,16 45,17
+
+fill 18,18 19,19
+
+color #64759A
+pixel 24,15
+
+color #3E740C
+fill 10,0 11,0
+
+fill 20,0 21,0
+
+fill 24,0 25,0
+
+fill 38,0 39,0
+
+fill 10,31 11,31
+
+color #FBF134
+fill 28,6 33,7
+
+fill 24,8 25,9
+
+fill 38,8 39,9
+
+fill 21,10 23,11
+
+fill 40,10 42,10
+
+pixel 20,11
+
+fill 40,11 41,21
+
+fill 43,11 43,20
+
+fill 22,12 23,21
+
+fill 42,12 42,19
+
+fill 44,12 47,15
+
+fill 20,13 21,18
+
+fill 12,14 19,17
+
+fill 50,14 51,17
+
+fill 44,18 47,19
+
+pixel 42,21
+
+fill 24,22 25,23
+
+fill 38,22 39,23
+
+fill 28,24 35,25
+
+color #EAF646
+fill 31,4 31,5
+
+pixel 30,5
+
+fill 27,6 27,7
+
+pixel 26,7
+
+fill 44,10 44,11
+
+pixel 45,11
+
+fill 15,12 15,13
+
+pixel 14,13
+
+fill 10,15 11,16
+
+fill 14,18 15,18
+
+pixel 15,19
+
+fill 18,20 19,20
+
+pixel 19,21
+
+fill 22,22 23,22
+
+pixel 23,23
+
+fill 26,24 27,24
+
+pixel 27,25
+
+fill 30,26 31,26
+
+pixel 31,27
+
+color #C6FF69
+fill 9,15 9,16
+
+color #7BB81C
+fill 16,10 17,10
+
+pixel 16,11
+
+color #5B6EE2
+pixel 30,11
+
+pixel 28,18
+
+color #616EC6
+fill 37,14 37,15
+
+fill 36,18 36,19
+
+pixel 37,19
+
+color #606DC5
+pixel 36,14
+
+color #FFFEFF
+fill 32,14 33,15
+
+color #6ABD2E
+fill 31,2 31,3
+
+fill 44,2 45,3
+
+pixel 30,3
+
+fill 18,6 19,7
+
+fill 50,8 51,9
+
+fill 50,22 51,23
+
+fill 16,26 17,27
+
+fill 36,28 37,29
+
+color #7AB71D
+pixel 20,9
+
+pixel 20,22
+
+color #FFFFFF
+fill 28,14 31,14
+
+pixel 28,15
+
+fill 30,15 31,15
+
+fill 37,16 37,17
+
+pixel 36,17
+
+color #3E720B
+pixel 2,0
+
+pixel 61,0
+
+pixel 0,2
+
+pixel 0,29
+
+pixel 2,31
+
+pixel 61,31
+
+color #7EB71E
+fill 34,4 35,4
+
+pixel 35,5
+
+color #5771D1
+fill 26,10 26,11
+
+pixel 27,11
+
+fill 26,16 27,16
+
+fill 27,17 27,18
+
+fill 26,18 26,19
+
+fill 30,20 31,20
+
+fill 26,21 27,21
+
+pixel 31,21
+
+color #616EC4
+fill 30,12 31,12
+
+pixel 31,13
+
+color #95E557
+pixel 2,2
+
+pixel 61,2
+
+pixel 2,29
+
+pixel 61,29
+
+color #F0FBFF
+fill 28,13 29,13
+
+fill 32,16 33,16
+
+color #6D728F
+pixel 27,12
+
+pixel 39,16
+
+pixel 34,17
+
+color #68739A
+fill 38,12 38,13
+
+pixel 39,13
+
+color #69BC30
+pixel 27,26
+
+color #D0DEFF
+pixel 35,8
+
+color #AAD281
+pixel 1,1
+
+pixel 1,30
+
+color #EEEB79
+pixel 37,8
+
+color #6DBD30
+pixel 57,5
+
+pixel 57,26
+
+color #E6E3B4
+pixel 24,12
+
+color #FAF033
+pixel 21,12
+
+pixel 21,19
+
+color #83800E
+pixel 36,9
+
+color #45567B
+pixel 25,15
+
+color #C5FF66
+pixel 17,11
+
+color #446C1D
+pixel 63,0
+
+pixel 63,31
+
+color #FCF137
+pixel 20,21
+
+color #FFFFEF
+fill 38,18 39,18
+
+color #456D1E
+pixel 62,0
+
+pixel 63,1
+
+pixel 63,30
+
+pixel 62,31
+
+color #E9F847
+pixel 36,6
+
+pixel 52,14
+
+pixel 52,17
+
+pixel 36,25
+
+color #6CBC2F
+fill 56,4 57,4
+
+pixel 56,5
+
+fill 38,26 39,27
+
+fill 56,26 56,27
+
+pixel 57,27
+
+fill 26,28 26,29
+
+fill 40,28 43,29
+
+pixel 27,29
+
+color #6BBE30
+pixel 56,3
+
+pixel 58,3
+
+pixel 7,6
+
+pixel 6,7
+
+pixel 6,24
+
+pixel 7,25
+
+pixel 56,28
+
+pixel 58,28
+
+color #767966
+pixel 38,19
+
+color #EBF747
+pixel 11,14
+
+pixel 11,17
+
+color #7DB81E
+fill 24,6 25,6
+
+fill 38,6 39,6
+
+pixel 24,7
+
+pixel 39,7
+
+fill 42,8 43,8
+
+fill 46,10 47,10
+
+pixel 47,11
+
+fill 50,12 51,12
+
+pixel 51,13
+
+fill 54,14 55,14
+
+fill 55,15 55,17
+
+pixel 54,17
+
+fill 51,18 51,19
+
+pixel 50,19
+
+fill 47,20 47,21
+
+pixel 46,21
+
+fill 42,23 43,23
+
+fill 35,26 35,27
+
+pixel 34,27
+
+color #6ABD31
+fill 14,2 15,3
+
+fill 14,10 15,11
+
+fill 2,14 3,17
+
+fill 14,20 15,21
+
+fill 44,22 45,23
+
+fill 26,26 26,27
+
+pixel 27,27
+
+fill 14,28 15,29
+
+color #6ABD2F
+fill 4,2 13,5
+
+fill 16,2 29,2
+
+fill 34,2 34,3
+
+fill 36,2 43,4
+
+fill 46,2 59,2
+
+fill 16,3 26,5
+
+fill 28,3 29,3
+
+pixel 35,3
+
+fill 46,3 55,5
+
+pixel 57,3
+
+fill 59,3 59,29
+
+fill 2,4 3,5
+
+fill 14,4 15,9
+
+pixel 27,4
+
+fill 44,4 45,9
+
+fill 58,4 58,27
+
+fill 60,4 61,13
+
+fill 37,5 43,5
+
+fill 4,6 6,6
+
+fill 8,6 9,13
+
+fill 12,6 13,11
+
+fill 16,6 17,9
+
+fill 20,6 23,7
+
+fill 40,6 43,7
+
+fill 46,6 49,9
+
+fill 52,6 57,6
+
+fill 4,7 5,29
+
+fill 52,7 55,11
+
+fill 57,7 57,25
+
+fill 2,8 3,13
+
+fill 6,8 7,13
+
+fill 10,8 11,10
+
+fill 18,8 19,9
+
+fill 56,8 56,23
+
+fill 48,10 48,11
+
+fill 50,10 51,11
+
+fill 10,11 10,13
+
+pixel 49,11
+
+pixel 11,12
+
+pixel 52,12
+
+fill 54,12 54,13
+
+pixel 53,13
+
+pixel 55,13
+
+fill 2,18 3,23
+
+fill 6,18 10,23
+
+fill 53,18 55,18
+
+fill 60,18 61,27
+
+pixel 11,19
+
+fill 52,19 52,29
+
+fill 54,19 54,29
+
+fill 12,20 13,29
+
+fill 48,20 51,20
+
+fill 53,20 53,29
+
+fill 55,20 55,29
+
+fill 11,21 11,23
+
+fill 48,21 48,29
+
+fill 50,21 51,21
+
+fill 14,22 19,23
+
+fill 46,22 47,29
+
+fill 49,22 49,29
+
+fill 8,24 9,29
+
+fill 14,24 17,25
+
+fill 20,24 23,29
+
+fill 42,24 45,27
+
+fill 6,25 6,29
+
+pixel 56,25
+
+fill 2,26 3,27
+
+fill 7,26 7,29
+
+fill 10,26 11,29
+
+fill 14,26 15,27
+
+fill 18,26 19,29
+
+fill 24,26 25,29
+
+fill 37,26 37,27
+
+fill 40,26 41,27
+
+fill 50,26 51,29
+
+pixel 36,27
+
+fill 16,28 17,29
+
+fill 28,28 32,28
+
+fill 34,28 35,28
+
+fill 38,28 39,29
+
+fill 44,28 45,29
+
+fill 57,28 57,29
+
+fill 28,29 29,29
+
+fill 31,29 32,29
+
+pixel 34,29
+
+pixel 56,29
+
+pixel 58,29
+
+color #5A6CE2
+fill 36,10 37,11
+
+color #616600
+pixel 27,9
+
+pixel 25,11
+
+pixel 25,20
+
+pixel 27,22
+
+color #C8FF68
+pixel 34,5
+
+color #CEE0F5
+pixel 28,8
+
+color #69BE2F
+fill 32,2 32,3
+
+fill 2,6 3,7
+
+fill 10,6 11,7
+
+fill 50,6 51,7
+
+fill 6,14 7,17
+
+fill 60,14 61,17
+
+fill 2,24 3,25
+
+fill 10,24 11,25
+
+fill 18,24 19,25
+
+fill 40,24 41,25
+
+fill 50,24 51,25
+
+color #A2D66F
+pixel 56,1
+
+pixel 1,4
+
+pixel 1,27
+
+pixel 56,30
+
+color #66749B
+fill 34,8 34,9
+
+pixel 35,9
+
+color #C5FF68
+pixel 29,5
+
+pixel 21,9
+
+pixel 13,13
+
+pixel 13,18
+
+pixel 17,20
+
+pixel 21,22
+
+pixel 25,24
+
+pixel 38,24
+
+pixel 29,26
+
+color #F2FAFF
+fill 26,14 27,14
+
+fill 34,15 35,15
+
+color #69BC2E
+pixel 35,2
+
+pixel 27,3
+
+pixel 27,5
+
+pixel 36,5
+
+pixel 7,7
+
+pixel 56,7
+
+pixel 49,10
+
+pixel 11,11
+
+pixel 53,12
+
+pixel 55,12
+
+pixel 11,13
+
+pixel 52,13
+
+pixel 11,18
+
+pixel 52,18
+
+pixel 53,19
+
+pixel 55,19
+
+pixel 11,20
+
+pixel 49,21
+
+pixel 7,24
+
+pixel 56,24
+
+pixel 36,26
+
+fill 33,28 33,29
+
+pixel 30,29
+
+pixel 35,29
+
+color #EDEA78
+pixel 36,8
+
+pixel 37,9
+
+color #A2D870
+fill 10,1 11,1
+
+fill 20,1 21,1
+
+fill 24,1 25,1
+
+fill 38,1 39,1
+
+fill 10,30 11,30
+
+color #65778C
+fill 29,8 29,9
+
+pixel 35,22
+
+pixel 34,23
+
+color #E8F746
+fill 32,4 32,5
+
+pixel 33,5
+
+fill 36,7 37,7
+
+fill 40,8 40,9
+
+pixel 41,9
+
+fill 48,12 48,13
+
+pixel 49,13
+
+fill 52,15 53,16
+
+fill 48,18 49,18
+
+pixel 48,19
+
+fill 44,20 45,20
+
+pixel 44,21
+
+fill 40,22 41,22
+
+pixel 40,23
+
+fill 36,24 37,24
+
+fill 32,26 33,26
+
+pixel 32,27
+
+color #A3D772
+fill 58,1 59,1
+
+fill 22,30 23,30
+
+fill 58,30 59,30
+
+color #A9D182
+pixel 62,1
+
+pixel 62,30
+
+color #EAF644
+fill 23,8 23,9
+
+pixel 22,9
+
+fill 19,10 19,11
+
+pixel 18,11
+
+color #A0AC00
+pixel 30,4
+
+pixel 26,6
+
+pixel 18,10
+
+pixel 45,10
+
+pixel 14,12
+
+pixel 10,14
+
+pixel 10,17
+
+pixel 14,19
+
+pixel 18,21
+
+pixel 26,25
+
+pixel 30,27
+
+color #FBF133
+fill 34,6 35,7
+
+fill 16,12 17,13
+
+fill 48,14 49,17
+
+fill 16,18 17,19
+
+color #6CBC2E
+fill 3,2 3,3
+
+fill 60,2 60,3
+
+pixel 2,3
+
+pixel 61,3
+
+fill 2,28 3,28
+
+fill 60,28 61,28
+
+pixel 3,29
+
+pixel 60,29
+
+color #456D1C
+fill 0,0 1,0
+
+pixel 0,1
+
+fill 0,30 0,31
+
+pixel 1,31
+
+
+-- Stats: 119 colors, 2048 pixels, 594 commands

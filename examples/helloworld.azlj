@@ -1,0 +1,66 @@
+-- Generated from image conversion
+size 45x7
+background #000000
+
+-- Filling background
+color #FEFEFE
+fill 1,1 45,7
+
+-- Letters color
+color #000000
+
+-- 'H'
+fill 2,2 2,5
+fill 4,2 4,5
+pixel 3,3
+
+-- 'E'
+fill 6,2 8,2
+fill 6,3 7,3
+fill 6,4 6,5
+fill 7,5 8,5
+
+-- 'L'
+fill 10,2 10,5
+fill 11,5 12,5
+-- 'L'
+fill 14,2 14,5
+fill 15,5 16,5
+ 
+-- 'O'
+fill 18,2 20,2
+fill 18,3 18,5
+fill 20,3 20,5
+pixel 19,5
+
+-- ','
+fill 22,5 22,6
+
+-- 'W'
+fill 26,2 26,5
+fill 27,4 27,5
+fill 28,2 28,5
+
+-- 'O'
+fill 30,2 32,2
+fill 30,3 30,5
+fill 32,3 32,5
+pixel 31,5
+
+-- 'R'
+fill 34,2 36,2
+fill 34,3 34,5
+pixel 35,4
+pixel 36,3
+pixel 36,5
+
+-- 'L'
+fill 38,2 38,5
+fill 39,5 40,5
+
+-- 'D'
+fill 42,2 43,2
+fill 42,3 42,5
+fill 44,3 44,4
+pixel 43,5
+
